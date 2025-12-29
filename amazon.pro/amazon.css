@@ -1,0 +1,77 @@
+.navbar{
+    display:grid;
+    grid-template-columns: repeat(6,1fr);
+    gap:20px;
+    height:80px;
+    width:100%;
+    background-color: #0f1111;
+    align-items: center;
+    position:fixed;
+}
+.search{
+    height:10px;
+    width:100px;
+}
+.padd{
+    padding:0px;
+    color:bisque;
+}
+a{
+    margin-right: 350px;
+    margin-left: 15px;
+    color:white;
+    font-size: 20px;
+    text-decoration: none;
+        }
+#logo{
+    font-size:50px;
+    color:rgb(204, 135, 7);
+}
+#accountlogo {
+    height:30px;
+}
+#accdis{
+    margin-right: 50px;
+    
+}
+#sells{
+    height:200px;
+    border-style:groove;
+    /* background-image: url("https://cdn0.zingoy.com/uploads/marketing/eefd2792_seo-image-1200-by-675.png");
+    background-size: contain;*/
+}
+#offer{
+    height:200px;
+    align-items: center;
+    
+}
+button{
+    background-color:#f89008;
+    border-radius: 15%;
+}
+img{
+    height:300px;
+   
+}
+#first{
+    font-size: 35px;
+    text-align: center;
+    
+}
+#second{
+    font-size: 25px;
+}
+#shopby{
+    font-size: 25px;;
+}
+#deals{
+    color:#0f1111;
+    padding:0px;
+    margin:20px;
+}
+.catagory{
+    border-style:ridge;
+}
+.product{
+    margin-left: 50px;
+}
